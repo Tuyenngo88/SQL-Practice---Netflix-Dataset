@@ -1,0 +1,3 @@
+# Netflix-TV-Shows-and-Movies-Analysis-with-SQL-and-PowerBI
+The dataset contains the list of all movies and tv shows available on Netflix, one of the most popular media and video streaming platforms, from 2008 to 2021. 
+This project uses SQL and Power BI as tools for analyzing and visualizing the dataset, focusing on understanding the distribution of Netflix's contents (Movies and TV Shows) by different countries, directors, and rating categories, the growth trend of content over the years, the most popular content's genres, content's duration as well as content's rating categories to be focused.
